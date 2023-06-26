@@ -28,6 +28,8 @@
 *.jl.mem
 *.jl.*.mem
 *.ji
+*.ji.gor
+*.ji.dev
 
 /perf*
 .DS_Store
